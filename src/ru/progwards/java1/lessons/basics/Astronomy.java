@@ -1,6 +1,6 @@
 package ru.progwards.java1.lessons.basics;
 
-public class Astranomy {
+public class Astronomy {
         public static Double sphereSquare(Double r) {
             final double Pi = 3.14;
             return 4 * Pi * r * r;
